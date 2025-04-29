@@ -1,4 +1,4 @@
- # Zomato Sales & Delivery Analytics Project (PostgreSQL + Power BI)
+# Zomato Sales & Delivery Analytics Project (PostgreSQL + Power BI)
 
 ## Overview
 
