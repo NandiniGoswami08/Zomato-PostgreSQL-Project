@@ -1,6 +1,4 @@
-# Zomato-PostgreSQL-Project
-This project analyzes simulated Zomato food delivery data using PostgreSQL for querying and Power BI for visualization. It includes 5 dashboard pages covering customer insights, order trends, restaurant performance, and rider efficiency with key KPIs, DAX measures, and slicers. 
-# Zomato Sales & Delivery Analytics Project (PostgreSQL + Power BI)
+ # Zomato Sales & Delivery Analytics Project (PostgreSQL + Power BI)
 
 ## Overview
 
@@ -107,8 +105,6 @@ Donut Chart: Customer Segmentation (Gold/Silver)
 
 Bar Chart: Top 5 Dishes by James Ruiz
 
-Column Chart: Monthly Sales Trend
-
 ![zomato d1](https://github.com/user-attachments/assets/c0dffaee-0798-4252-92cb-d5c371a17168)
 
 
@@ -116,13 +112,13 @@ Column Chart: Monthly Sales Trend
 
 Bar Chart: CLV per Customer
 
-Table: High Value Customers
-
 Line Chart: Order Frequency by Time Slot
+
+Column Chart: Monthly Sales Trend
 
 Column Chart: Rider Ratings
 
-Slicers: Year, Customer Segment, Name
+Slicers: Customer Name, Namorder_date.
 
 ![zomato d2](https://github.com/user-attachments/assets/6ea19b7d-ec8a-4c5a-a2f5-e5857bcd0c46)
 
@@ -133,9 +129,7 @@ Stacked Column: Orders Without Delivery
 
 Matrix Table: Restaurant Revenue by City
 
-Bar Chart: Rider Monthly Earnings
-
-Map/Bar Chart: Restaurant Revenue by City
+Table: Rider Monthly Earnings
 
 ![zomato d3](https://github.com/user-attachments/assets/efed94d6-b0c5-43e6-8ba1-cba4230b1de1)
 
@@ -148,22 +142,19 @@ Line Chart: Monthly Revenue & Previous Month Revenue
 
 Matrix: Restaurant Revenue Ranking
 
-Treemap: Most Popular Dish by City
-
 ![zomato d4](https://github.com/user-attachments/assets/9ade8538-434c-4691-959d-d2a14b96c969)
 
 
 ### Page 5: Rider Performance & Deep Dives
 
-Bar Chart: Avg Delivery Time per Rider
+Bar Chart: Popular item by season.
 
-KPI Cards: Min/Max Efficiency
+Treemap: Most Popular Dish by City
 
 Stacked Bar: Rider Earnings Monthly
 
 Heatmap: Peak Order Day by Restaurant
 
-Treemap: Item Popularity by Season (Veg/Non-Veg)
 
 ![zomato d5](https://github.com/user-attachments/assets/af5222e1-8358-48cb-81bc-f2015da72597)
 
